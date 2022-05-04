@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
+<<<<<<< Updated upstream
 This project ALSO was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=======
+This project wasn't bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>>>>>>> Stashed changes
 
 ## Available Scripts
 
